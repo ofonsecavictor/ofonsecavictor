@@ -23,4 +23,4 @@ Here are some ideas to get you started:
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/ofonsecavictor)](https://github.com/ofonsecavictor)
 
-[![JavaScript Bdge (ttps://www.w3.org/html/)
+[![JavaScript Badge] (ttps://www.w3.org/html/)
