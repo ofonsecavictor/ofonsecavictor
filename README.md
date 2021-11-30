@@ -16,7 +16,7 @@
 
 ### Hi there 👋
 
-Autodidata, criativo e realista. 
+Autodidata e criativo. 
 
 Muito prazer. 
 
