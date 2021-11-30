@@ -22,8 +22,14 @@ Here are some ideas to get you started:
 
 [![Github Badge](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&linkhttps://github.com/ofonsecavictor/)](https://github.com/ofonsecavictor/).com/)
 
-<a href="https://wa.me/<12982770919>" alt="WhatsApp" target="_blank">
+<a href="https://wa.me/<+5512982770919>" alt="WhatsApp" target="_blank">
 
 <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white&link=https://wa.me/<SEUNUMERO>"/>
+
+</a>
+
+<a href="mailto:<contatovictorfonseca@gmail.com>" alt="gmail" target="_blank">
+
+<img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=mailto:<SEUEMAIL>" />
 
 </a>
