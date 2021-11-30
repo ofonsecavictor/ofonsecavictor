@@ -13,6 +13,7 @@ Com conhecimento nos principais softwares e ferramentas de criação como pacote
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning HTML, CSS, JAVASCRIPT, REACT, REACT NATIVE
 
+- 🌱 Estudante de HTML, CSS, JAVASCRIPT, REACT, REACT NATIVE
+- 🔭 Trabalhando em projetos pessoais
+- 🧠 Sempre em busca de conhecimento
