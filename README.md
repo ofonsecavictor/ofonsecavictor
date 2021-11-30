@@ -24,6 +24,12 @@ Here are some ideas to get you started:
 
 </a>
 
+<a href="https://github.com/<ofonsecavictor>" alt="github" target="_blank">
+
+<img src="https://img.shields.io/badge/GitHub-000000?&style=flat-square&logo=GitHub&logoColor=white">
+
+</a>
+
 <a href="https://wa.me/<+5512982770919>" alt="WhatsApp" target="_blank">
 
 <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white&link=https://wa.me/<SEUNUMERO>"/>
