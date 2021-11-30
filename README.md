@@ -22,4 +22,4 @@ Here are some ideas to get you started:
 
 [![Github Badge](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&linkhttps://github.com/ofonsecavictor/)](https://github.com/ofonsecavictor)
 
-[![JavaScript Badge] (https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)
+[![JavaScript Badge] (https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)&linkhttps://www.javascript.com/)] (https://www.javascript.com/)
