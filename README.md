@@ -17,3 +17,6 @@ Here are some ideas to get you started:
 - 🌱 Estudante de HTML, CSS, JAVASCRIPT, REACT, REACT NATIVE
 - 🔭 Trabalhando em projetos pessoais
 - 🧠 Sempre em busca de conhecimento
+
+
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ovictorfonseca/)](https://www.linkedin.com/in/ovictorfonseca/)
