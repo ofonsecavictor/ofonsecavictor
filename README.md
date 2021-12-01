@@ -57,7 +57,7 @@ Com conhecimento nos principais softwares e ferramentas de criação como pacote
 </a>
 
 <a href="" target="_blank"> 
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/github/gihubt.png" alt="javascript" width="40" height="40"/> 
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/github/github.png" alt="javascript" width="40" height="40"/> 
 </a>
 
 
