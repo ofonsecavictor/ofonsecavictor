@@ -65,7 +65,7 @@ Com conhecimento nos principais softwares e ferramentas de criação como pacote
 
 
 <a href="" target="_blank"> 
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongoDB/mongoDB.png" alt="javascript" width="40" height="40"/> 
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" alt="javascript" width="40" height="40"/> 
 </a>
 
 
