@@ -31,7 +31,7 @@ Com conhecimento nos principais softwares e ferramentas de criação como pacote
 - 🧠 Sempre em busca de conhecimento
 
 
-### 🧠 Conhecimento/Estudando
+### 🧠 Conhecimento
 <a href="" target="_blank"> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
 </a>
@@ -56,6 +56,12 @@ Com conhecimento nos principais softwares e ferramentas de criação como pacote
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="javascript" width="40" height="40"/> 
 </a>
 
+
+### 🎓 Estudando
+
+<a href="" target="_blank"> 
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" alt="javascript" width="40" height="40"/> 
+</a>
 
 
 
