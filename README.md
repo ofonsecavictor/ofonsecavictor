@@ -32,27 +32,27 @@ Com conhecimento nos principais softwares e ferramentas de criação como pacote
 
 
 ### 🧠 Conhecimento/Estudando
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
+<a href="" target="_blank"> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
 </a>
 
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
+<a href="" target="_blank"> 
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" alt="javascript" width="40" height="40"/> 
 </a>
 
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
+<a href="" target="_blank"> 
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="javascript" width="40" height="40"/> 
 </a>
 
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
+<a href="" target="_blank"> 
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png" alt="firebase" width="40" height="40"/> 
 </a>
 
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
+<a href="" target="_blank"> 
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="css" width="40" height="40"/> 
 </a>
 
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
+<a href="" target="_blank"> 
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="javascript" width="40" height="40"/> 
 </a>
 
