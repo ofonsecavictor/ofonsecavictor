@@ -29,7 +29,7 @@ Também atuei no ramo de Hotelaria, na qual me garantiu um conhecimento gigantes
 
 Com conhecimento nos principais softwares e ferramentas de criação como pacote Adobe e Figma, atuo como desenvolvedor com foco em Mobile utilizando React Native.
 
-- 🔭 Trabalhando em projetos pessoais
+- 🔭 Desenvolvedor na Comuniverse e T-Training 
 - 🧠 Sempre em busca de conhecimento
 
 
