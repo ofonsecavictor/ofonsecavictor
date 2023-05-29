@@ -73,4 +73,4 @@ Com conhecimento nos principais softwares e ferramentas de criação como pacote
 
 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ofonsecavictor&show_icons=true&locale=en" alt="ofonsecavictor" /></p>
+
