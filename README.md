@@ -17,18 +17,9 @@
 ### 👋 Hi there 
 
 
-
-Autodidata e criativo. 
-
 Muito prazer. 
 
-Apaixonado por tecnologia, iniciei realizando manutenções e formatações em computadores. 
-
-Passei pelas áreas do audiovisual e design gráfico. 
-Também atuei no ramo de Hotelaria, na qual me garantiu um conhecimento gigantesco sobre experiência do usuário. 
-
-Com conhecimento nos principais softwares e ferramentas de criação como pacote Adobe e Figma, atuo como desenvolvedor com foco em Mobile utilizando React Native.
-
+Com conhecimento nos principais softwares e ferramentas de criação como pacote Adobe e Figma, atuo como desenvolvedor de software
 
 ### 🧠 Conhecimento
 <a href="" target="_blank"> 
