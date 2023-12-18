@@ -17,9 +17,7 @@
 ### 👋 Hi there 
 
 
-Muito prazer. 
-
-Com conhecimento nos principais softwares e ferramentas de criação como pacote Adobe e Figma, atuo como desenvolvedor de software
+Muito prazer.
 
 ### 🧠 Conhecimento
 <a href="" target="_blank"> 
