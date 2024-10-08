@@ -2,18 +2,6 @@
 <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white">
 </a>
 
-<a href="https://github.com/<ofonsecavictor>" alt="github" target="_blank">
-<img src="https://img.shields.io/badge/GitHub-000000?&style=flat-square&logo=GitHub&logoColor=white">
-</a>
-
-<a href="https://wa.me/<+5512982770919>" alt="WhatsApp" target="_blank">
-<img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white&link=https://wa.me/<SEUNUMERO>"/>
-</a>
-
-<a href="mailto:<contatovictorfonseca@gmail.com>" alt="gmail" target="_blank">
-<img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=mailto:<SEUEMAIL>" />
-</a>
-
 ### 👋 Hi there 
 
 
